@@ -1,6 +1,6 @@
-# my_app
+# Wisata Bandung
 
-A new Flutter project.
+A new Flutter project. Project from Dicoding Multiplatform App Course
 
 ## Getting Started
 
